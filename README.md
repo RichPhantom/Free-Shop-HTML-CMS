@@ -6,6 +6,9 @@
 
 ![install](https://github.com/RichPhantom/Free-Shop-HTML-CMS/blob/main/screen/IMAGE%202024-08-07%2012:34:19.jpg?raw=true)
 
+2) Edit App.js
+  ![Edit](https://github.com/RichPhantom/Free-Shop-HTML-CMS/blob/main/screen/Pasted%20Graphic%204.png?raw=true)
+
 
 ## Screenshot 
 

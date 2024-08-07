@@ -9,6 +9,16 @@
 2) Edit App.js
   ![Edit](https://github.com/RichPhantom/Free-Shop-HTML-CMS/blob/main/screen/Pasted%20Graphic%204.png?raw=true)
 
+   accountId: '', ///YOUR accountId
+   accessToken: '' ///YOUR  accessToken
+
+    Contack Informatinon
+   
+   phone: 'YOUR_PHONE_NUMBER', // YOUR PHONE NUMBER
+   email: 'YOUR_EMAIL_ADDRESS', // YOUR EMAIL ADDRESS 
+   description: 'YOUR_DESCRIPTION' // YOUR DESCRIPTION
+
+3) Save    
 
 ## Screenshot 
 

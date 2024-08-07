@@ -1,0 +1,9 @@
+{
+    "callButton": "Call",
+    "contactInfo": {
+        "phone": "Phone",
+        "email": "Email",
+        "description": "Your brief description here."
+    },
+    "priceLabel": "Price"
+}

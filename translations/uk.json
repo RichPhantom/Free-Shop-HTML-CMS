@@ -1,0 +1,9 @@
+{
+    "callButton": "Подзвонити",
+    "contactInfo": {
+        "phone": "Телефон",
+        "email": "Email",
+        "description": "Ваше коротке опис тут."
+    },
+    "priceLabel": "Ціна"
+}

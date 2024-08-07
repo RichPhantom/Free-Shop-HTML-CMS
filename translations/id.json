@@ -1,0 +1,9 @@
+{
+    "callButton": "Panggilan",
+    "contactInfo": {
+        "phone": "Telepon",
+        "email": "Email",
+        "description": "Deskripsi singkat Anda di sini."
+    },
+    "priceLabel": "Harga"
+}

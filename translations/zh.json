@@ -1,0 +1,9 @@
+{
+    "callButton": "打电话",
+    "contactInfo": {
+        "phone": "电话",
+        "email": "电子邮件",
+        "description": "您的简短描述在这里。"
+    },
+    "priceLabel": "价格"
+}
